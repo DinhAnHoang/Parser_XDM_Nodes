@@ -1,0 +1,1704 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<ss:Workbook xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet">
+  <ss:Worksheet ss:Name="NodeTree">
+    <ss:Table>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">PathName</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">Type</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">AR-PACKAGE</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">ELEMENTS</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">AR-ELEMENT</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">MODULE-DEF</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/IMPLEMENTATION_CONFIG_VARIANT</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">ENUMERATION</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">IDENTIFIABLE</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">MAP</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">IDENTIFIABLE</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanHwChannel</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">ENUMERATION</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanControllerActivation</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanControllerBaseAddress</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanControllerIcomSupported</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanControllerId</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanRxProcessing</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">ENUMERATION</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanTxProcessing</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">ENUMERATION</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanBusoffProcessing</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">ENUMERATION</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanWakeupFunctionalityAPI</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanWakeupProcessing</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">ENUMERATION</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanBccSupport</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanWakeupSupport</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanListenOnlyMode</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanLoopBackMode</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanSoftwareBusOffRecovery</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanAutoBusOffRecovery</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanTrippleSamplingEnable</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanWakeUpSourceFilter</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanLowestBuffTransmitFirst</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanLocalPriorityEn</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanClockFromBus</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanControllerDefaultBaudrate</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">REFERENCE</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanCpuClockRef</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">REFERENCE</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanCpuClockRef_Alternate</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">REFERENCE</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanControllerRxFifoEnable</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanRxFifoWarningNotification</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">FUNCTION-NAME</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanRxFifoOverflowNotification</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">FUNCTION-NAME</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanErrorControllerNotifEn</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanErrorControllerNotification</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">FUNCTION-NAME</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanWakeupSourceRef</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">SYMBOLIC-NAME-REFERENCE</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanControllerBaudrateConfig</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">MAP</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanControllerBaudrateConfig/CanControllerBaudrateConfig</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">IDENTIFIABLE</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanControllerBaudrateConfig/CanControllerBaudrateConfig/CanControllerCheckCanStandard</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanControllerBaudrateConfig/CanControllerBaudrateConfig/CanAdvancedSetting</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanControllerBaudrateConfig/CanControllerBaudrateConfig/CanBusLength</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanControllerBaudrateConfig/CanControllerBaudrateConfig/CanPropDelayTranceiver</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">FLOAT</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanControllerBaudrateConfig/CanControllerBaudrateConfig/CanTxArbitrationStartDelay</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanControllerBaudrateConfig/CanControllerBaudrateConfig/CanControllerPrescaller</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanControllerBaudrateConfig/CanControllerBaudrateConfig/CanControllerBaudRateConfigID</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanControllerBaudrateConfig/CanControllerBaudrateConfig/CanControllerPrescaller_Alt</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanControllerBaudrateConfig/CanControllerBaudrateConfig/CanControllerBaudRate</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanControllerBaudrateConfig/CanControllerBaudrateConfig/CanControllerSyncSeg</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanControllerBaudrateConfig/CanControllerBaudrateConfig/CanControllerPropSeg</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanControllerBaudrateConfig/CanControllerBaudrateConfig/CanControllerSeg1</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanControllerBaudrateConfig/CanControllerBaudrateConfig/CanControllerSeg2</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanControllerBaudrateConfig/CanControllerBaudrateConfig/CanControllerSyncJumpWidth</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanControllerBaudrateConfig/CanControllerBaudrateConfig/CanControllerFdBaudrateConfig</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">IDENTIFIABLE</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanControllerBaudrateConfig/CanControllerBaudrateConfig/CanControllerFdBaudrateConfig/CanControllerFDPrescaller</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanControllerBaudrateConfig/CanControllerBaudrateConfig/CanControllerFdBaudrateConfig/CanControllerFdBaudRate</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanControllerBaudrateConfig/CanControllerBaudrateConfig/CanControllerFdBaudrateConfig/CanControllerFdSyncSeg</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanControllerBaudrateConfig/CanControllerBaudrateConfig/CanControllerFdBaudrateConfig/CanControllerPropSeg</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanControllerBaudrateConfig/CanControllerBaudrateConfig/CanControllerFdBaudrateConfig/CanControllerSeg1</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanControllerBaudrateConfig/CanControllerBaudrateConfig/CanControllerFdBaudrateConfig/CanControllerSeg2</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanControllerBaudrateConfig/CanControllerBaudrateConfig/CanControllerFdBaudrateConfig/CanControllerSyncJumpWidth</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanControllerBaudrateConfig/CanControllerBaudrateConfig/CanControllerFdBaudrateConfig/CanControllerTrcvDelayCompensationOffset</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanControllerBaudrateConfig/CanControllerBaudrateConfig/CanControllerFdBaudrateConfig/CanControllerTxBitRateSwitch</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanControllerBaudrateConfig/CanControllerBaudrateConfig/CanControllerFdBaudrateConfig/CanControllerFdIsoCANFD</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanControllerBaudrateConfig/CanControllerBaudrateConfig/CanControllerFdBaudrateConfig/CanControllerFdPrExcEn</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanControllerBaudrateConfig/CanControllerBaudrateConfig/CanControllerFdBaudrateConfig/CanControllerFdEdgeFilterDis</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanControllerBaudrateConfig/CanControllerBaudrateConfig/CanControllerCBT</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">IDENTIFIABLE</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanControllerBaudrateConfig/CanControllerBaudrateConfig/CanControllerCBT/CanControllerCbtEnable</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanControllerBaudrateConfig/CanControllerBaudrateConfig/CanControllerCBT/CanControllerCbtPrescaller</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanControllerBaudrateConfig/CanControllerBaudrateConfig/CanControllerCBT/CanControllerCbtBaudRate</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanControllerBaudrateConfig/CanControllerBaudrateConfig/CanControllerCBT/CanControllerCbtSyncSeg</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanControllerBaudrateConfig/CanControllerBaudrateConfig/CanControllerCBT/CanControllerCbtPropSeg</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanControllerBaudrateConfig/CanControllerBaudrateConfig/CanControllerCBT/CanControllerCbtSeg1</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanControllerBaudrateConfig/CanControllerBaudrateConfig/CanControllerCBT/CanControllerCbtSeg2</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanControllerBaudrateConfig/CanControllerBaudrateConfig/CanControllerCBT/CanControllerSyncJumpWidthCbt</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanRAMBlock</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">MAP</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanRAMBlock/CanRAMBlock</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">IDENTIFIABLE</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanRAMBlock/CanRAMBlock/CanRAMBlockName</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">ENUMERATION</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanRAMBlock/CanRAMBlock/CanRAMBlockSizeValue</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">ENUMERATION</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanRxFifo</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">IDENTIFIABLE</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanRxFifo/CanControllerIDAcceptanceMode</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">ENUMERATION</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanRxFifo/CanRxFifoFiltersNumber</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">ENUMERATION</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanRxFifo/CanRxFifoGlobalMaskValue</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanRxFifo/CanRxFifoTable</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">MAP</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanRxFifo/CanRxFifoTable/CanRxFifoTable</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">IDENTIFIABLE</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanRxFifo/CanRxFifoTable/CanRxFifoTable/CanIDValue0</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanRxFifo/CanRxFifoTable/CanRxFifoTable/CanIDValue1</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanRxFifo/CanRxFifoTable/CanRxFifoTable/CanIDValue2</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanRxFifo/CanRxFifoTable/CanRxFifoTable/CanIDValue3</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanRxFifo/CanRxFifoTable/CanRxFifoTable/CanTableIDType</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">ENUMERATION</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanRxFifo/CanRxFifoTable/CanRxFifoTable/CanMBFilterMaskValue</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanTTController</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">IDENTIFIABLE</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanTTController/CanTTControllerApplWatchdogLimit</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanTTController/CanTTControllerCycleCountMax</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanTTController/CanTTControllerExpectedTxTrigger</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanTTController/CanTTControllerExternalClockSynchronisation</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanTTController/CanTTControllerGlobalTimeFiltering</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanTTController/CanTTControllerInitialRefOffset</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanTTController/CanTTControllerInterruptEnable</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanTTController/CanTTControllerLevel2</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanTTController/CanTTControllerNTUConfig</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">FLOAT</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanTTController/CanTTControllerOperationMode</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">ENUMERATION</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanTTController/CanTTControllerSyncDeviation</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">FLOAT</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanTTController/CanTTControllerTURRestore</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanTTController/CanTTControllerTimeMaster</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanTTController/CanTTControllerTimeMasterPriority</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanTTController/CanTTControllerTxEnableWindowLength</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanTTController/CanTTControllerWatchTriggerGapTimeMark</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanTTController/CanTTControllerWatchTriggerTimeMark</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanController/CanController/CanTTController/CanTTIRQProcessing</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">ENUMERATION</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanHardwareObject</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">MAP</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanHardwareObject/CanHardwareObject</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">IDENTIFIABLE</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanHardwareObject/CanHardwareObject/CanFdPaddingValue</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanHardwareObject/CanHardwareObject/CanHandleType</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">ENUMERATION</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanHardwareObject/CanHardwareObject/CanIdType</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">ENUMERATION</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanHardwareObject/CanHardwareObject/CanMBPrio</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanHardwareObject/CanHardwareObject/CanObjectId</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanHardwareObject/CanHardwareObject/CanObjectType</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">ENUMERATION</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanHardwareObject/CanHardwareObject/CanTriggerTransmitEnable</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanHardwareObject/CanHardwareObject/CanControllerRef</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">REFERENCE</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanHardwareObject/CanHardwareObject/CanMainFunctionRWPeriodRef</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">REFERENCE</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanHardwareObject/CanHardwareObject/CanRAMBlockRef</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">REFERENCE</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanHardwareObject/CanHardwareObject/CanHwObjectCount</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanHardwareObject/CanHardwareObject/CanHwFilter</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">IDENTIFIABLE</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanHardwareObject/CanHardwareObject/CanHwFilter/CanHwFilterCode</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanHardwareObject/CanHardwareObject/CanHwFilter/CanHwFilterMask</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanHardwareObject/CanHardwareObject/CanTTHardwareObjectTrigger</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">MAP</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanHardwareObject/CanHardwareObject/CanTTHardwareObjectTrigger/CanTTHardwareObjectTrigger</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">IDENTIFIABLE</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanHardwareObject/CanHardwareObject/CanTTHardwareObjectTrigger/CanTTHardwareObjectTrigger/CanTTHardwareObjectBaseCycle</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanHardwareObject/CanHardwareObject/CanTTHardwareObjectTrigger/CanTTHardwareObjectTrigger/CanTTHardwareObjectCycleRepetition</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanHardwareObject/CanHardwareObject/CanTTHardwareObjectTrigger/CanTTHardwareObjectTrigger/CanTTHardwareObjectTimeMark</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanHardwareObject/CanHardwareObject/CanTTHardwareObjectTrigger/CanTTHardwareObjectTrigger/CanTTHardwareObjectTriggerId</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanHardwareObject/CanHardwareObject/CanTTHardwareObjectTrigger/CanTTHardwareObjectTrigger/CanTTHardwareObjectTriggerType</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">ENUMERATION</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanIcom</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">IDENTIFIABLE</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanIcom/CanIcomConfig</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">MAP</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanIcom/CanIcomConfig/CanIcomConfig</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">IDENTIFIABLE</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanIcom/CanIcomConfig/CanIcomConfig/CanIcomConfigId</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanIcom/CanIcomConfig/CanIcomConfig/CanIcomWakeOnBusOff</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanIcom/CanIcomConfig/CanIcomConfig/CanIcomWakeupCauses</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">IDENTIFIABLE</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanIcom/CanIcomConfig/CanIcomConfig/CanIcomWakeupCauses/CanIcomRxMessage</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">MAP</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanIcom/CanIcomConfig/CanIcomConfig/CanIcomWakeupCauses/CanIcomRxMessage/CanIcomRxMessage</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">IDENTIFIABLE</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanIcom/CanIcomConfig/CanIcomConfig/CanIcomWakeupCauses/CanIcomRxMessage/CanIcomRxMessage/CanIcomCounterValue</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanIcom/CanIcomConfig/CanIcomConfig/CanIcomWakeupCauses/CanIcomRxMessage/CanIcomRxMessage/CanIcomMessageId</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanIcom/CanIcomConfig/CanIcomConfig/CanIcomWakeupCauses/CanIcomRxMessage/CanIcomRxMessage/CanIcomIdOperation</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">ENUMERATION</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanIcom/CanIcomConfig/CanIcomConfig/CanIcomWakeupCauses/CanIcomRxMessage/CanIcomRxMessage/CanIcomMessageIdMask</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanIcom/CanIcomConfig/CanIcomConfig/CanIcomWakeupCauses/CanIcomRxMessage/CanIcomRxMessage/CanIcomMissingMessageTimerValue</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">FLOAT</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanIcom/CanIcomConfig/CanIcomConfig/CanIcomWakeupCauses/CanIcomRxMessage/CanIcomRxMessage/CanIcomPayloadLengthError</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanIcom/CanIcomConfig/CanIcomConfig/CanIcomWakeupCauses/CanIcomRxMessage/CanIcomRxMessage/CanPayloadFilter</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanIcom/CanIcomConfig/CanIcomConfig/CanIcomWakeupCauses/CanIcomRxMessage/CanIcomRxMessage/CanIcomRxMessageSignalConfig</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">MAP</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanIcom/CanIcomConfig/CanIcomConfig/CanIcomWakeupCauses/CanIcomRxMessage/CanIcomRxMessage/CanIcomRxMessageSignalConfig/CanIcomRxMessageSignalConfig</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">IDENTIFIABLE</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanIcom/CanIcomConfig/CanIcomConfig/CanIcomWakeupCauses/CanIcomRxMessage/CanIcomRxMessage/CanIcomRxMessageSignalConfig/CanIcomRxMessageSignalConfig/CanIcomSignalMask</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanIcom/CanIcomConfig/CanIcomConfig/CanIcomWakeupCauses/CanIcomRxMessage/CanIcomRxMessage/CanIcomRxMessageSignalConfig/CanIcomRxMessageSignalConfig/CanIcomSignalOperation</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">ENUMERATION</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanIcom/CanIcomConfig/CanIcomConfig/CanIcomWakeupCauses/CanIcomRxMessage/CanIcomRxMessage/CanIcomRxMessageSignalConfig/CanIcomRxMessageSignalConfig/CanIcomSignalValue</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanIcom/CanIcomConfig/CanIcomConfig/CanIcomWakeupCauses/CanIcomRxMessage/CanIcomRxMessage/CanIcomRxMessageSignalConfig/CanIcomRxMessageSignalConfig/DLCLowValue</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanIcom/CanIcomConfig/CanIcomConfig/CanIcomWakeupCauses/CanIcomRxMessage/CanIcomRxMessage/CanIcomRxMessageSignalConfig/CanIcomRxMessageSignalConfig/DLCHighValue</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanConfigSet/CanIcom/CanIcomConfig/CanIcomConfig/CanIcomWakeupCauses/CanIcomRxMessage/CanIcomRxMessage/CanIcomRxMessageSignalConfig/CanIcomRxMessageSignalConfig/CanIcomSignalRef</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">REFERENCE</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanGeneral</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">IDENTIFIABLE</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanGeneral/CanChangeBaudrateApi</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanGeneral/CanDevErrorDetection</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanGeneral/CanEnableUserModeSupport</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanGeneral/CanVersionInfoApi</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanGeneral/CanIndex</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanGeneral/CanMainFunctionBusoffPeriod</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">FLOAT</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanGeneral/CanMainFunctionWakeupPeriod</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">FLOAT</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanGeneral/CanMainFunctionModePeriod</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">FLOAT</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanGeneral/CanMultiplexedTransmission</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanGeneral/CanMaxMessageBuffers</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanGeneral/CanTimeoutDuration</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">FLOAT</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanGeneral/CanLPduReceiveCalloutFunction</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">FUNCTION-NAME</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanGeneral/CanOsCounterRef</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">REFERENCE</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanGeneral/CanAllowLoopAsCycle</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanGeneral/CanNumberOfTimeOutLoop</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanGeneral/CanSupportTTCANRef</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">REFERENCE</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanGeneral/CanCodeSizeOptimization</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanGeneral/CanExtendedIDSupport</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanGeneral/CanMBCountExtensionSupport</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanGeneral/CanApiEnableMbAbort</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanGeneral/CanSetBaudrateApi</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanGeneral/CanAbortOnlyOneMB</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanGeneral/CanEnableDualClockMode</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanGeneral/CanSpecifiedRAMBlockSize</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanGeneral/MBDSR</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">ENUMERATION</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanGeneral/CanMainFunctionRWPeriods</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">MAP</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanGeneral/CanMainFunctionRWPeriods/CanMainFunctionRWPeriods</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">IDENTIFIABLE</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanGeneral/CanMainFunctionRWPeriods/CanMainFunctionRWPeriods/CanMainFunctionPeriod</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">FLOAT</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanGeneral/CanPublicIcomSupport</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanGeneral/CanIcomGeneral</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">IDENTIFIABLE</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanGeneral/CanIcomGeneral/CanIcomLevel</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">ENUMERATION</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CanGeneral/CanIcomGeneral/CanIcomVariant</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">ENUMERATION</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CommonPublishedInformation</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">IDENTIFIABLE</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CommonPublishedInformation/ArReleaseMajorVersion</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER_LABEL</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CommonPublishedInformation/ArReleaseMinorVersion</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER_LABEL</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CommonPublishedInformation/ArReleaseRevisionVersion</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER_LABEL</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CommonPublishedInformation/ModuleId</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER_LABEL</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CommonPublishedInformation/SwMajorVersion</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER_LABEL</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CommonPublishedInformation/SwMinorVersion</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER_LABEL</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CommonPublishedInformation/SwPatchVersion</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER_LABEL</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CommonPublishedInformation/VendorApiInfix</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">STRING_LABEL</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/CommonPublishedInformation/VendorId</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER_LABEL</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can/none/none</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">REFINED_MODULE_DEF</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can_EcuParameterDefinition</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">AR-ELEMENT</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can_EcuParameterDefinition/none</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">AR-ELEMENT</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can_EcuParameterDefinition/none/MODULE_REF</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">none</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can_EcuParameterDefinition/none/MODULE_REF/none</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">MODULE_REF</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can_ModuleDescription</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">AR-ELEMENT</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can_ModuleDescription/none</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">AR-ELEMENT</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can_ModuleDescription/none/MODULE_ID</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can_ModuleDescription/none/none</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">RECOMMENDED_CONFIGURATION</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can_ModuleDescription/none/none</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">PRE_CONFIGURED_CONF</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Can_ModuleDescription/none/none</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">VENDOR_SPECIFIC_MODULE_DEF</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+    </ss:Table>
+  </ss:Worksheet>
+</ss:Workbook>

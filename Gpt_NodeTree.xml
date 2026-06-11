@@ -1,0 +1,832 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<ss:Workbook xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet">
+  <ss:Worksheet ss:Name="NodeTree">
+    <ss:Table>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">PathName</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">Type</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">AR-PACKAGE</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">ELEMENTS</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">AR-ELEMENT</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">MODULE-DEF</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/IMPLEMENTATION_CONFIG_VARIANT</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">ENUMERATION</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptChannelConfigSet</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">MULTIPLE-CONFIGURATION-CONTAINER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptChannelConfigSet/GptChannelConfiguration</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">MAP</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptChannelConfigSet/GptChannelConfiguration/GptChannelConfiguration</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">IDENTIFIABLE</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptChannelConfigSet/GptChannelConfiguration/GptChannelConfiguration/GptChannelId</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptChannelConfigSet/GptChannelConfiguration/GptChannelConfiguration/GptHwChannel</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">ENUMERATION</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptChannelConfigSet/GptChannelConfiguration/GptChannelConfiguration/GptChannelMode</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">ENUMERATION</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptChannelConfigSet/GptChannelConfiguration/GptChannelConfiguration/GptChannelTickFrequency</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">FLOAT</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptChannelConfigSet/GptChannelConfiguration/GptChannelConfiguration/GptFtmPrescaler</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptChannelConfigSet/GptChannelConfiguration/GptChannelConfiguration/GptFtmPrescaler_Alternate</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptChannelConfigSet/GptChannelConfiguration/GptChannelConfiguration/GptLptmrPrescaler</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptChannelConfigSet/GptChannelConfiguration/GptChannelConfiguration/GptLptmrPrescaler_Alternate</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptChannelConfigSet/GptChannelConfiguration/GptChannelConfiguration/GptChannelClkSrcRef</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">REFERENCE</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptChannelConfigSet/GptChannelConfiguration/GptChannelConfiguration/GptFtmChannelClkSrc</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">ENUMERATION</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptChannelConfigSet/GptChannelConfiguration/GptChannelConfiguration/GptLptmrChannelClkSrc</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">ENUMERATION</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptChannelConfigSet/GptChannelConfiguration/GptChannelConfiguration/GptSRtcChannelClkSrc</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">ENUMERATION</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptChannelConfigSet/GptChannelConfiguration/GptChannelConfiguration/GptLPitIsExternalTrigger</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptChannelConfigSet/GptChannelConfiguration/GptChannelConfiguration/GptLPitEnReloadOnTrigger</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptChannelConfigSet/GptChannelConfiguration/GptChannelConfiguration/GptLPitEnStopOnInterrupt</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptChannelConfigSet/GptChannelConfiguration/GptChannelConfiguration/GptLPitEnStartOnTrigger</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptChannelConfigSet/GptChannelConfiguration/GptChannelConfiguration/GptLPitTriggerChannels</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">ENUMERATION</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptChannelConfigSet/GptChannelConfiguration/GptChannelConfiguration/GptChannelTickValueMax</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptChannelConfigSet/GptChannelConfiguration/GptChannelConfiguration/GptFreezeEnable</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptChannelConfigSet/GptChannelConfiguration/GptChannelConfiguration/GptEnableWakeup</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptChannelConfigSet/GptChannelConfiguration/GptChannelConfiguration/GptNotification</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">FUNCTION-NAME</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptChannelConfigSet/GptChannelConfiguration/GptChannelConfiguration/GptWakeupConfiguration</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">IDENTIFIABLE</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptChannelConfigSet/GptChannelConfiguration/GptChannelConfiguration/GptWakeupConfiguration/GptWakeupSourceRef</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">SYMBOLIC-NAME-REFERENCE</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptHwConfiguration</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">MAP</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptHwConfiguration/GptHwConfiguration</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">IDENTIFIABLE</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptHwConfiguration/GptHwConfiguration/GptIsrHwId</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">ENUMERATION</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptHwConfiguration/GptHwConfiguration/GptIsrEnable</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptHwConfiguration/GptHwConfiguration/GptModuleIsUsed</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptConfigurationOfOptApiServices</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">IDENTIFIABLE</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptConfigurationOfOptApiServices/GptDeinitApi</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptConfigurationOfOptApiServices/GptEnableDisableNotificationApi</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptConfigurationOfOptApiServices/GptTimeElapsedApi</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptConfigurationOfOptApiServices/GptTimeRemainingApi</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptConfigurationOfOptApiServices/GptVersionInfoApi</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptConfigurationOfOptApiServices/GptWakeupFunctionalityApi</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptConfigurationOfOptApiServices/GptPredefTimerFunctionalityApi</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptNonAUTOSAR</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">IDENTIFIABLE</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptNonAUTOSAR/GptEnableUserModeSupport</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptNonAUTOSAR/GptEnableDualClockMode</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptNonAUTOSAR/GptChangeNextTimeoutValueApi</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptNonAUTOSAR/GptEnableTriggers</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptDriverConfiguration</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">IDENTIFIABLE</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptDriverConfiguration/GptDevErrorDetect</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptDriverConfiguration/GptPredefTimer100us32bitEnable</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptDriverConfiguration/GptPredefTimer1usEnablingGrade</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">ENUMERATION</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptDriverConfiguration/GptReportWakeupSource</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptDriverConfiguration/GptRegisterLockingMode</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">ENUMERATION</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptDriverConfiguration/GptClockReferencePoint</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">MAP</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptDriverConfiguration/GptClockReferencePoint/GptClockReferencePoint</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">IDENTIFIABLE</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptDriverConfiguration/GptClockReferencePoint/GptClockReferencePoint/GptClockReference</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">REFERENCE</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptPredefTimerConfiguration</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">IDENTIFIABLE</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptPredefTimerConfiguration/GptPredefTimer_1us_16Bit</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">IDENTIFIABLE</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptPredefTimerConfiguration/GptPredefTimer_1us_16Bit/GptHwChannel</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">ENUMERATION</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptPredefTimerConfiguration/GptPredefTimer_1us_16Bit/GptChannelClkSrcRef</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">REFERENCE</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptPredefTimerConfiguration/GptPredefTimer_1us_16Bit/GptChannelPrescaler</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptPredefTimerConfiguration/GptPredefTimer_1us_16Bit/GptFtmChannelClkSrc</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">ENUMERATION</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptPredefTimerConfiguration/GptPredefTimer_1us_16Bit/GptLptmrChannelClkSrc</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">ENUMERATION</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptPredefTimerConfiguration/GptPredefTimer_1us_16Bit/GptFreezeEnable</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptPredefTimerConfiguration/GptPredefTimer_1us_24Bit</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">IDENTIFIABLE</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptPredefTimerConfiguration/GptPredefTimer_1us_24Bit/GptHwChannel</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">ENUMERATION</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptPredefTimerConfiguration/GptPredefTimer_1us_24Bit/GptChannelClkSrcRef</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">REFERENCE</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptPredefTimerConfiguration/GptPredefTimer_1us_24Bit/GptChannelPrescaler</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptPredefTimerConfiguration/GptPredefTimer_1us_24Bit/GptFreezeEnable</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptPredefTimerConfiguration/GptPredefTimer_1us_32Bit</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">IDENTIFIABLE</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptPredefTimerConfiguration/GptPredefTimer_1us_32Bit/GptHwChannel</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">ENUMERATION</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptPredefTimerConfiguration/GptPredefTimer_1us_32Bit/GptChannelClkSrcRef</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">REFERENCE</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptPredefTimerConfiguration/GptPredefTimer_1us_32Bit/GptChannelPrescaler</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptPredefTimerConfiguration/GptPredefTimer_1us_32Bit/GptFreezeEnable</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptPredefTimerConfiguration/GptPredefTimer_100us_32Bit</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">IDENTIFIABLE</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptPredefTimerConfiguration/GptPredefTimer_100us_32Bit/GptHwChannel</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">ENUMERATION</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptPredefTimerConfiguration/GptPredefTimer_100us_32Bit/GptChannelClkSrcRef</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">REFERENCE</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptPredefTimerConfiguration/GptPredefTimer_100us_32Bit/GptChannelPrescaler</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/GptPredefTimerConfiguration/GptPredefTimer_100us_32Bit/GptFreezeEnable</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">BOOLEAN</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/CommonPublishedInformation</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">IDENTIFIABLE</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/CommonPublishedInformation/ArReleaseMajorVersion</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER_LABEL</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/CommonPublishedInformation/ArReleaseMinorVersion</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER_LABEL</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/CommonPublishedInformation/ArReleaseRevisionVersion</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER_LABEL</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/CommonPublishedInformation/ModuleId</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER_LABEL</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/CommonPublishedInformation/SwMajorVersion</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER_LABEL</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/CommonPublishedInformation/SwMinorVersion</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER_LABEL</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/CommonPublishedInformation/SwPatchVersion</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER_LABEL</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/CommonPublishedInformation/VendorApiInfix</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">STRING_LABEL</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/CommonPublishedInformation/VendorId</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER_LABEL</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt/none/none</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">REFINED_MODULE_DEF</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt_EcuParameterDefinition</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">AR-ELEMENT</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt_EcuParameterDefinition/none</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">AR-ELEMENT</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt_EcuParameterDefinition/none/MODULE_REF</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">none</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt_EcuParameterDefinition/none/MODULE_REF/none</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">MODULE_REF</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt_ModuleDescription</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">AR-ELEMENT</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt_ModuleDescription/none</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">AR-ELEMENT</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt_ModuleDescription/none/MODULE_ID</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">INTEGER</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt_ModuleDescription/none/none</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">RECOMMENDED_CONFIGURATION</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt_ModuleDescription/none/none</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">PRE_CONFIGURED_CONF</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell>
+          <ss:Data ss:Type="String">TS_T40D2M10I1R0/none/Gpt_ModuleDescription/none/none</ss:Data>
+        </ss:Cell>
+        <ss:Cell>
+          <ss:Data ss:Type="String">VENDOR_SPECIFIC_MODULE_DEF</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+    </ss:Table>
+  </ss:Worksheet>
+</ss:Workbook>
