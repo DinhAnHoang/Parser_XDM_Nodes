@@ -4,15 +4,12 @@
 
 | Attribute | Value |
 |---|---|
-| Document ID | MCU_SWRS |
+| Document ID | Module_SWRS |
 | Module | MCU |
 | AUTOSAR Release | 4.4.x |
 | Target MCU | STM32F407xx |
 | Demo Board | STM32F407 Discovery |
 | Version | 0.1.0 |
-| Status | Draft |
-| Author | TBD |
-| Date | YYYY-MM-DD |
 
 ## 2. Functional Requirements
 
