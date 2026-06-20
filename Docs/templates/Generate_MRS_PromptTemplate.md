@@ -1,28 +1,28 @@
 ## Thông tin đầu vào
 
 - Module: `<ModuleName>`
-- Tên file AUTOSAR PDF: `<AUTOSAR_PDF_FILENAME>`
+- Tên file AUTOSAR SRS PDF: `<AUTOSAR_SRS_PDF_FILENAME>`
 - Tên file template: `<TEMPLATE_FILENAME>`
 
 Ví dụ:
 - Module: `Mcu`
-- Tên file AUTOSAR PDF: `AUTOSAR_SRS_MCUDriver.pdf`
-- Tên file template: `ModuleName_SRS_Template.md`
+- Tên file AUTOSAR SRS PDF: `AUTOSAR_SRS_MCUDriver.pdf`
+- Tên file template: `ModuleName_MRS_Template.md`
 
 ## Đường dẫn
 
 - File AUTOSAR:
-  `docs/references/<AUTOSAR_PDF_FILENAME>`
+  `docs/references/<AUTOSAR_SRS_PDF_FILENAME>`
 
 - File template:
   `docs/templates/<TEMPLATE_FILENAME>`
 
 - File đầu ra:
-  `docs/modules/<module-lowercase>/<ModuleName>_SWRS.md`
+  `docs/modules/<module-lowercase>/<ModuleName>_MRS.md`
 
 ## Yêu cầu thực hiện
 
-Đọc file AUTOSAR PDF và file template được chỉ định.
+Đọc file AUTOSAR SRS PDF và file template được chỉ định để tạo Module Requirements Specification (MRS).
 
 ### 1. Xác định phạm vi requirement
 
@@ -39,7 +39,7 @@ Ví dụ:
   - Source ID;
   - tên requirement AUTOSAR.
 - Tạo ID nội bộ tuần tự:
-  `<ModuleName>_REQ_001`, `<ModuleName>_REQ_002`, ...
+  `<ModuleName>_MRS_001`, `<ModuleName>_MRS_002`, ...
 - Viết lại `Requirement` và `Rationale` ngắn gọn, chính xác, không sao chép nguyên văn dài.
 - Không thêm hoặc suy diễn thông tin không tồn tại trong PDF.
 - Nếu PDF không cung cấp Rationale hoặc thông tin cần thiết, ghi `TBD`.
@@ -49,7 +49,7 @@ Ví dụ:
 
 - Sử dụng chính xác cấu trúc và thứ tự các trường của file template.
 - Trong phần `Document Information`:
-  - Đổi `Document ID` thành `<ModuleName>_SWRS`.
+  - Đổi `Document ID` thành `<ModuleName>_MRS`.
   - Thay mọi placeholder `moduleName` hoặc `ModuleName` bằng tên module phù hợp.
   - Giữ nguyên tất cả trường và giá trị khác.
 - Lặp lại đúng block requirement trong template cho từng requirement AUTOSAR.

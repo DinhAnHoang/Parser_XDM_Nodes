@@ -1,10 +1,10 @@
-# MCU Software Requirements Specification
+# MCU Module Requirements Specification
 
 ## 1. Document Information
 
 | Attribute | Value |
 |---|---|
-| Document ID | MCU_SWRS |
+| Document ID | MCU_MRS |
 | Module | MCU |
 | AUTOSAR Release | 4.4.x |
 | Target MCU | STM32F407xx |
@@ -13,7 +13,7 @@
 
 ## 2. Functional Requirements
 
-### MCU_REQ_001: Low Power Mode Configuration
+### MCU_MRS_001: Low Power Mode Configuration
 
 | Attribute | Value |
 |---|---|
@@ -41,7 +41,7 @@ TBD
 
 ---
 
-### MCU_REQ_002: The MCU Driver shall allow the static configuration of RAM segments that are initialized during start-up
+### MCU_MRS_002: The MCU Driver shall allow the static configuration of RAM segments that are initialized during start-up
 
 | Attribute | Value |
 |---|---|
@@ -69,7 +69,7 @@ TBD
 
 ---
 
-### MCU_REQ_003: The MCU Driver shall provide a service to initialize the contents of configured RAM sections
+### MCU_MRS_003: The MCU Driver shall provide a service to initialize the contents of configured RAM sections
 
 | Attribute | Value |
 |---|---|
@@ -97,7 +97,7 @@ TBD
 
 ---
 
-### MCU_REQ_004: The MCU driver shall provide a service to query the lock status of all PLLs in the micro controller individually
+### MCU_MRS_004: The MCU driver shall provide a service to query the lock status of all PLLs in the micro controller individually
 
 | Attribute | Value |
 |---|---|
@@ -125,7 +125,7 @@ TBD
 
 ---
 
-### MCU_REQ_005: The MCU Driver shall provide a service for activating the PLL clock distribution to the whole MCU
+### MCU_MRS_005: The MCU Driver shall provide a service for activating the PLL clock distribution to the whole MCU
 
 | Attribute | Value |
 |---|---|
@@ -153,7 +153,7 @@ TBD
 
 ---
 
-### MCU_REQ_006: The MCU Driver shall configure the clock safety features
+### MCU_MRS_006: The MCU Driver shall configure the clock safety features
 
 | Attribute | Value |
 |---|---|
@@ -181,7 +181,7 @@ TBD
 
 ---
 
-### MCU_REQ_007: The MCU Driver shall provide a service to initialize the clock system of the MCU
+### MCU_MRS_007: The MCU Driver shall provide a service to initialize the clock system of the MCU
 
 | Attribute | Value |
 |---|---|
@@ -209,7 +209,7 @@ TBD
 
 ---
 
-### MCU_REQ_008: The MCU Driver shall provide a service for querying the standardized reset reason
+### MCU_MRS_008: The MCU Driver shall provide a service for querying the standardized reset reason
 
 | Attribute | Value |
 |---|---|
@@ -237,7 +237,7 @@ Hardware need not distinguish every standardized reset reason.
 
 ---
 
-### MCU_REQ_009: The MCU driver shall provide a service that allows to query the raw reset status
+### MCU_MRS_009: The MCU driver shall provide a service that allows to query the raw reset status
 
 | Attribute | Value |
 |---|---|
@@ -265,7 +265,7 @@ Return zero when the microcontroller has no reset status register.
 
 ---
 
-### MCU_REQ_010: The MCU driver shall provide a reset trigger function
+### MCU_MRS_010: The MCU driver shall provide a reset trigger function
 
 | Attribute | Value |
 |---|---|
@@ -293,7 +293,7 @@ The function shall not be used when the microcontroller cannot trigger a reset b
 
 ---
 
-### MCU_REQ_011: The MCU Driver shall provide a service for querying the RAM status
+### MCU_MRS_011: The MCU Driver shall provide a service for querying the RAM status
 
 | Attribute | Value |
 |---|---|
@@ -321,7 +321,7 @@ RAM invalid is the default state when multiple states cannot be distinguished.
 
 ---
 
-### MCU_REQ_012: The MCU driver shall provide a notification of failure of the clock source
+### MCU_MRS_012: The MCU driver shall provide a notification of failure of the clock source
 
 | Attribute | Value |
 |---|---|
@@ -349,7 +349,7 @@ TBD
 
 ---
 
-### MCU_REQ_013: The MCU driver shall provide a service to activate MCU power saving modes of the µC
+### MCU_MRS_013: The MCU driver shall provide a service to activate MCU power saving modes of the µC
 
 | Attribute | Value |
 |---|---|

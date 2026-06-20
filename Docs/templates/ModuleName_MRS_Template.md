@@ -1,11 +1,11 @@
-# MCU Software Requirements Specification
+# ModuleName Module Requirements Specification
 
 ## 1. Document Information
 
 | Attribute | Value |
 |---|---|
-| Document ID | Module_SWRS |
-| Module | MCU |
+| Document ID | ModuleName_MRS |
+| Module | ModuleName |
 | AUTOSAR Release | 4.4.x |
 | Target MCU | STM32F407xx |
 | Demo Board | STM32F407 Discovery |
@@ -13,12 +13,12 @@
 
 ## 2. Functional Requirements
 
-### MCU_REQ_001: Requirement Name
+### ModuleName_MRS_001: Requirement Name
 
 | Attribute | Value |
 |---|---|
-| Source | AUTOSAR_SRS_MCUDriver |
-| Source ID | SRS_Mcu_xxxxx |
+| Source | AUTOSAR_SRS_ModuleNameDriver |
+| Source ID | SRS_ModuleName_xxxxx |
 | Origin | AR |
 | Category | Configuration and Initialization |
 | Applicability | Applicable |
